@@ -124,7 +124,6 @@ main {
   font-weight: 600;
   line-height: 100px;
   text-transform: capitalize;
-  word-spacing: -2170px;
 }
 .mid-content span:first-child,
 .tagline {
@@ -212,7 +211,6 @@ main {
   font-size: 64px;
   line-height: 77px;
   color: #ffffff;
-  word-spacing: -1580px;
   position: relative;
 }
 .section-content h2::before {
